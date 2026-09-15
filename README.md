@@ -51,7 +51,7 @@ Recent **Computer Science** Graduate from **IPB (ESTiG)** 🎓
 - Fully containerized with **Docker Compose** for reproducible setup.
 
 #### 🏛️ Freguesia de Tó Website 🚧 *(Currently in Development)*
-*Personal Project & Web Development*
+*Personal Project | Web Development*
 - Responsive web platform built with **Next.js**, **TypeScript**, and **Tailwind CSS** to promote local history, news, and tourism.
 - Complete Administrative Panel (CMS) integrated with **Prisma** and **SQLite** for content and user management.
 
