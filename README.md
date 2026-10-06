@@ -50,18 +50,27 @@ Recent **Computer Science** Graduate from **IPB (ESTiG)** 🎓
 - **Next.js** frontend with drag-and-drop upload, indexed document sidebar, live service health status, and inline source highlighting in the chat.
 - Fully containerized with **Docker Compose** for reproducible setup.
 
-#### 🏛️ Freguesia de Tó Website 🚧 *(Currently in Development)*
+#### 🕯️ Arômea - E-commerce for a Handmade Candle Brand 🚧 *(In Development)*
+*Client Project | Full-Stack Web*
+- Custom online store built with **Next.js**, **TypeScript**, **Tailwind CSS** and **Supabase** (PostgreSQL, Auth, Storage).
+- Product catalogue with sizes, cart and checkout with **MB WAY** and bank transfer; server-side price calculation.
+- Admin dashboard for products, orders and customer reviews, with sales statistics and reports.
+- Security with **Row Level Security** and **Zod** validation.
+
+#### 🏛️ Tó Parish Website 🚧 *(In Development)*
 *Personal Project | Web Development*
-- Responsive web platform built with **Next.js**, **TypeScript**, and **Tailwind CSS** to promote local history, news, and tourism.
-- Complete Administrative Panel (CMS) integrated with **Prisma** and **SQLite** for content and user management.
+- Multilingual portal (**PT, FR, ES, EN**) built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Prisma** and **PostgreSQL**.
+- Custom admin dashboard for notices, news, events, gallery and messages.
+- Online document requests with email confirmation and status tracking.
+- Built to **WCAG 2.1 AA** and GDPR-compliant, with no third-party cookies.
 
 ---
 
 ### 👥 Leadership & Associations
 
-- **President / Magíster** — Real Tuna Universitária de Bragança (2023–2024)
-- **Treasurer** — Computer Science Student Association IPB (2021–2022)
-- **President** — Student Association at EBS Mogadouro (2018–2019)
+- **President / Magíster** - Real Tuna Universitária de Bragança (2023–2024)
+- **Treasurer** - Computer Science Student Association IPB (2021–2022)
+- **President** - Student Association at EBS Mogadouro (2018–2019)
 
 ---
 
