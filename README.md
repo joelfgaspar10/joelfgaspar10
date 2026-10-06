@@ -2,7 +2,7 @@
 
 Recent **Computer Engineering** graduate from **IPB (ESTiG)** 🎓 · Open to new opportunities in IT
 
-🌐 [joelgaspar.dev](https://www.joelgaspar.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/joel-gaspar) · ✉️ joelfgaspar10@gmail.com
+🌐 [joelgaspar.dev](https://www.joelgaspar.dev) · 💼 [LinkedIn]([https://www.linkedin.com/in/joel-gaspar](https://www.linkedin.com/in/joel-gaspar-4952361b7/)) · ✉️ joelfgaspar10@gmail.com
 
 ---
 
